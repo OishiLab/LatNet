@@ -70,6 +70,7 @@ OUTPUT_DIRNAME/
   ├ *.csv
 
 MODEL_DIRNAME/
+  ├ MNI_FULL.nii
   ├ CNet.pth
   ├ SSNet.pth
   ├ CNN1.pth
@@ -99,3 +100,4 @@ You need to cite both LRNet and OpenMAP-T1.
 	eprint = {https://www.medrxiv.org/content/early/2024/01/20/2024.01.18.24301494.full.pdf},
 	journal = {medRxiv}
 }
+```
