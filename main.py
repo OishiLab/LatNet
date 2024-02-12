@@ -52,7 +52,7 @@ def main():
         save = os.path.splitext(os.path.basename(path))[0]
         df = pd.DataFrame([save, pred], index=["Name", "Probability"]).T
         df.to_csv(os.path.join(opt.o, f"{save}.csv"), index=False)
-        os.remove(f"N4/N4.nii")#pandas nibabel tqdm scipy, ants simple itk
+        os.remove(f"N4/N4.nii")
 
 if __name__ == "__main__":
     main()
