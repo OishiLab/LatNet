@@ -44,7 +44,7 @@ pip install -r requirements.txt
 6. You can run LatNet !!
 
 ## How to use it
-**Using LatNet is straightforward. You don't need to do any preprocessing to the image. This code includes skull-stripping using [OpenMAP-T1](https://github.com/OishiLab/OpenMAP-T1).**
+**Using LatNet is straightforward. You don't need to do any preprocessing to the image. All you need to run this code is prepare a 3DT1-weighted image of NifTi. This code includes skull-stripping using [OpenMAP-T1](https://github.com/OishiLab/OpenMAP-T1).**
 You can use it in any terminal on your linux system. We provide CPU as well as GPU support. Running on GPU is a lot faster though and should always be preferred. Here is a minimalistic example of how you can use LatNet.
 
 ```
