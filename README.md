@@ -31,7 +31,7 @@ https://pytorch.org/
 
 Once you select your environment, the required commands will be displayed.
 
-![image](https://github.com/OishiLab/LatNet/assets/64403395/7fc5c11b-fafb-44b3-8099-f7b778480860)
+![image](https://github.com/OishiLab/LatNet/assets/64403395/7b4b11df-e47d-4377-9ab8-798dc8bade94)
 
 If you want to install an older Pytorch environment, you can download it from the link below.<br>
 https://pytorch.org/get-started/previous-versions/
