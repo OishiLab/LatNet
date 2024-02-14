@@ -56,7 +56,7 @@ CUDA_VISIBLE_DEVICES=1 python3 main.py -i INPUT_FOLDER -o OUTPUT_FOLDER -m MODEL
 ```
 
 ## How to download the pretrained model.
-You can get the pretrained model from the this link.
+You can get the pretrained model from the [this link](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/koishi2_jh_edu/EvgdNZq4oHtHp71VVLi1DOcBpSK-KobNm4ZduBCzFC3b2g).
 
 ## Folder
 All images you input must be in NifTi format and have a .nii extension.
