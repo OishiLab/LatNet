@@ -5,8 +5,8 @@
 [![IEEE Xplore](https://img.shields.io/badge/under%20review-Imaging%20Neuroscience-%2300629B%09)](https://janeway.imaging-neuroscience.org/)
 [![Python 3.8](https://img.shields.io/badge/OpenMAP-T1-brightgreen.svg)](https://github.com/OishiLab/OpenMAP-T1)
 
-**Decoding Brain MRI: A Neural Network Approach to Pinpointing Left-Right Orientation**<br>
-**Author**: Kei Nishimaki, [Kengo Onda](https://researchmap.jp/kengoonda?lang=en), [Yuto Uchida](https://researchmap.jp/uchidayuto), [Hitoshi Iyatomi](https://iyatomi-lab.info/english-top), [Kenichi Oishi](https://www.hopkinsmedicine.org/profiles/details/kenichi-oishi)<br>
+**A Neural Network Approach to Identify Left-Right Orientation of Anatomical Brain MRI**<br>
+**Author**: Kei Nishimaki, [Hitoshi Iyatomi](https://iyatomi-lab.info/english-top), [Kenichi Oishi](https://www.hopkinsmedicine.org/profiles/details/kenichi-oishi)<br>
 
 The Russell H. Morgan Department of Radiology and Radiological Science, The Johns Hopkins University School of Medicine, Baltimore, MD, USA <br>
 Department of Applied Informatics, Graduate School of Science and Engineering, Hosei University, Tokyo, Japan <br>
