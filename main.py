@@ -30,7 +30,7 @@ def main():
         "\n#######################################################################\n"
         "Please cite the following paper when using LatNet:\n"
         "Kei Nishimaki, Hitoshi Iyatomi, Kenichi Oishi (2024).\n"
-        "Decoding Brain MRI: A Neural Network Approarch to Pinpointing Left-Right Orientation.\n"
+        "A Neural Network Approach to Identify Left-Right Orientation of Anatomical Brain MRI.\n"
         "paper: Not yet.\n"
         "#######################################################################\n"
         )
