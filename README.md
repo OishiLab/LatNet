@@ -1,9 +1,7 @@
 # LatNet
 ![Figure1](https://github.com/OishiLab/LatNet/assets/64403395/dd95f1ee-97a3-4820-a16b-2fc365453b3b)
 
-[![](http://img.shields.io/badge/medRxiv-10.1101/2024.01.18.24301494-B31B1B.svg)](https://www.medrxiv.org/content/10.1101/2024.01.18.24301494v1)
 [![IEEE Xplore](https://img.shields.io/badge/under%20review-Imaging%20Neuroscience-%2300629B%09)](https://janeway.imaging-neuroscience.org/)
-[![Python 3.8](https://img.shields.io/badge/OpenMAP-T1-brightgreen.svg)](https://github.com/OishiLab/OpenMAP-T1)
 
 **A Neural Network Approach to Identify Left-Right Orientation of Anatomical Brain MRI**<br>
 **Author**: Kei Nishimaki, [Hitoshi Iyatomi](https://iyatomi-lab.info/english-top), [Kenichi Oishi](https://www.hopkinsmedicine.org/profiles/details/kenichi-oishi)<br>
