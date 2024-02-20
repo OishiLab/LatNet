@@ -1,6 +1,7 @@
 # LatNet
 ![Figure1](https://github.com/OishiLab/LatNet/assets/64403395/dd95f1ee-97a3-4820-a16b-2fc365453b3b)
 
+[![](http://img.shields.io/badge/bioRxiv-10.1101/2024.02.15.580574-B31B1B.svg)](https://www.biorxiv.org/content/10.1101/2024.02.15.580574v1)
 [![IEEE Xplore](https://img.shields.io/badge/under%20review-Not%20yet-%2300629B%09)](https://janeway.imaging-neuroscience.org/)
 
 **A Neural Network Approach to Identify Left-Right Orientation of Anatomical Brain MRI**<br>
@@ -12,7 +13,7 @@ The Richman Family Precision Medicine Center of Excellence in Alzheimer's Diseas
 
 **Abstract**: *Left-right orientation misidentification in brain MRIs presents significant challenges due to several factors, including metadata loss or ambiguity, which often occurs during the de-identification of medical images for research, conversion between image formats, software operations that strip or overwrite metadata, and the use of older imaging systems that stored orientation differently. This study presents a novel application of deep learning to enhance the accuracy of left-right orientation identification in anatomical brain MRI scans. The three-dimensional Convolutional Neural Network model was trained using 350 MRIs and evaluated on eight distinct brain MRI databases, totaling 3,384 MRIs, to assess its performance across various conditions, including neurodegenerative diseases. The proposed deep learning framework demonstrated a 99.6% accuracy in identifying the left-right orientation, addressing challenges associated with losing orientation metadata. GradCAM was used to visualize areas of the brain where the model focused, demonstrating the importance of the right planum temporale and surrounding areas in judging left-right orientation. The planum temporale is known to exhibit notable left-right asymmetry related to language functions, underscoring the biological validity of the model. More than half of the ten left-right misidentified MRIs involved notable brain feature variations, such as severe temporal lobe atrophy, arachnoidal cysts adjacent to the temporal lobe, or unusual cerebral torque, indicating areas for further investigation. This approach offers a potential solution to the persistent issue of left-right misorientation in brain MRIs and supports the reliability of neuroscientific research by ensuring accurate data interpretation.*
 
-Paper: Not yet<br>
+Paper: https://www.biorxiv.org/content/10.1101/2024.02.15.580574v1<br>
 Submitted for publication in the **Not yet**<br>
 
 ## Installation Instructions
