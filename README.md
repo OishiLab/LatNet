@@ -91,6 +91,17 @@ No. The training code is tightly wound around the data which we cannot make publ
 ## Citation
 You need to cite both LatNet and OpenMAP-T1.
 ```
+@article {Nishimaki2024.02.15.580574,
+	author = {Kei Nishimaki and Hitoshi Iyatomi and Kenichi Oishi},
+	title = {A Neural Network Approach to Identify Left-Right Orientation of Anatomical Brain MRI},
+	elocation-id = {2024.02.15.580574},
+	year = {2024},
+	doi = {10.1101/2024.02.15.580574},
+	publisher = {Cold Spring Harbor Laboratory},
+	URL = {https://www.biorxiv.org/content/early/2024/02/20/2024.02.15.580574},
+	eprint = {https://www.biorxiv.org/content/early/2024/02/20/2024.02.15.580574.full.pdf},
+	journal = {bioRxiv}
+}
 @article {Nishimaki2024.01.18.24301494,
 	author = {Kei Nishimaki and Kengo Onda and Kunpei Ikuta and Yuto Uchida and Susumu Mori and Hitoshi Iyatomi and Kenichi Oishi},
 	title = {OpenMAP-T1: A Rapid Deep Learning Approach to Parcellate 280 Anatomical Regions to Cover the Whole Brain},
