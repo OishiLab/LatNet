@@ -31,7 +31,7 @@ def main():
         "Please cite the following paper when using LatNet:\n"
         "Kei Nishimaki, Hitoshi Iyatomi, Kenichi Oishi (2024).\n"
         "A Neural Network Approach to Identify Left-Right Orientation of Anatomical Brain MRI.\n"
-        "paper: Not yet.\n"
+        "paper: https://www.medrxiv.org/content/10.1101/2024.01.18.24301494v1.\n"
         "#######################################################################\n"
         )
     opt = create_parser()
@@ -52,6 +52,7 @@ def main():
         save = os.path.splitext(os.path.basename(path))[0]
         df = pd.DataFrame([save, pred], index=["Name", "Probability"]).T
         df.to_csv(os.path.join(opt.o, f"{save}.csv"), index=False)
+        del data
         os.remove(f"N4/N4.nii")
 
 if __name__ == "__main__":
