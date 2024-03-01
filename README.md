@@ -1,5 +1,5 @@
 # LatNet
-![Figure1](https://github.com/OishiLab/LatNet/assets/64403395/dd95f1ee-97a3-4820-a16b-2fc365453b3b)
+![Figure1](media/LatNet.png)
 
 [![](http://img.shields.io/badge/bioRxiv-10.1101/2024.02.15.580574-B31B1B.svg)](https://www.biorxiv.org/content/10.1101/2024.02.15.580574v1)
 [![IEEE Xplore](https://img.shields.io/badge/under%20review-Not%20yet-%2300629B%09)](https://janeway.imaging-neuroscience.org/)
@@ -30,7 +30,7 @@ https://pytorch.org/
 
 Once you select your environment, the required commands will be displayed.
 
-![image](https://github.com/OishiLab/LatNet/assets/64403395/7b4b11df-e47d-4377-9ab8-798dc8bade94)
+![image](media/PyTorch.png)
 
 If you want to install an older Pytorch environment, you can download it from the link below.<br>
 https://pytorch.org/get-started/previous-versions/
